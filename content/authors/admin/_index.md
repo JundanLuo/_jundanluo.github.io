@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: jl3752@bath.ac.uk
   - display:
       header: false
     link: https://twitter.com/JundanLuo
