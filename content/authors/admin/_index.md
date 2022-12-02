@@ -54,4 +54,4 @@ email: jl3752@bath.ac.uk
 ---
 I am a CS PhD student in the visual computing group at University of Bath, supervised by Dr. [Christian Richardt](https://richardt.name/), Dr. [Wenbin Li](https://wbli.me/) and Dr. [Nanxuan Zhao](http://nxzhao.com/). I received my M.S. degree at the State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/).
 
-M﻿y research interests lie in intrinsic image decomposition (albedo and illumination estimation), inverse rendering, photo-realistic image editing and augmented reality
+M﻿y research interests lie in intrinsic image decomposition (albedo and illumination estimation), inverse rendering, photo-realistic image editing and augmented reality.
